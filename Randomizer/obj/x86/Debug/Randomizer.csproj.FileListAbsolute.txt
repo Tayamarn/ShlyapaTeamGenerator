@@ -1,0 +1,13 @@
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\bin\Debug\MainDB.sdf
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\bin\Debug\Randomizer.exe.config
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\bin\Debug\Randomizer.exe
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\bin\Debug\Randomizer.pdb
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\Randomizer.Form1.resources
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\Randomizer.Properties.Resources.resources
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\Randomizer.exe
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\Randomizer.pdb
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\bin\Debug\Database1.sdf
+c:\users\maksimr\documents\visual studio 2010\Projects\Randomizer\Randomizer\obj\x86\Debug\Randomizer.NewPlayer.resources
